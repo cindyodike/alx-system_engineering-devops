@@ -1,1 +1,1 @@
-Delete the directory my_first_directory that is in the /tmp directory
+Create a script that switches the current user to the user betty
