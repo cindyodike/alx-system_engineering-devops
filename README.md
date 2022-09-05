@@ -1,1 +1,1 @@
-Best school
+Write a script that prints “Hello, World
